@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kkeryru
-- 👀 I’m interested in Codeing
-- 🌱 I’m currently learning Html
+- 👀 I’m interested in makeing os
+- 🌱 I’m currently learning assebly
 - 💞️ I’m looking to collaborate on no
 - 📫 How to reach me no
 
